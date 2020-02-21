@@ -17,3 +17,7 @@ class employee {
     
   }
 }
+class manger extends employee {
+  constructor (name,id, title,)
+  super(name, id ,title)
+}
